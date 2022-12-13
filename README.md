@@ -1,0 +1,2 @@
+# closures
+Rust closures
